@@ -1,1 +1,1 @@
-# JWT-authebtication-Django-ReactJs
+# JWT-authentication-Django-ReactJs
